@@ -2,7 +2,7 @@ AI & Deep Learning engineering student at [INSA Rouen Normandie](https://www.ins
 
 Currently working on an INSA-certified capstone project with Enedis, designing a digital twin of the French electricity distribution network using Big Data pipelines and generative Deep Learning models to simulate the load curves of 38 million customers.
 
-## Featured Projects
+### Featured Projects
 
 **[Rose](https://github.com/Alban1911/Rose)** — Open-source League of Legends skin changer seamlessly integrated into the LoL client. Co-led a 6-person team and scaled to **12K+ daily active users**. Architected the full-stack infrastructure, achieving a 10x performance increase by replacing legacy AI components with optimized deterministic systems.
 
