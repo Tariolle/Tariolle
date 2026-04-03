@@ -1,4 +1,4 @@
-AI & Deep Learning engineering student at [INSA Rouen Normandie](https://www.insa-rouen.fr/en).
+AI & Deep Learning Engineering Student at [INSA Rouen Normandie](https://www.insa-rouen.fr/en).
 
 Currently working on an INSA-certified capstone project with Enedis, designing a digital twin of the French electricity distribution network using Big Data pipelines and generative Deep Learning models to simulate the load curves of 38 million customers.
 
