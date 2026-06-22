@@ -2,4 +2,4 @@
 
 **[Rose](https://github.com/Alban1911/Rose)** - Open-source League of Legends skin changer natively integrated into the client. 15K+ daily active users.
 
-**[SLS-WM](https://github.com/Tariolle/sls-wm)** *(ongoing research)* - Annealed Structured Label Smoothing for discrete world models: a tokenizer-metric-aware objective for improving training stability and sample efficiency, evaluated on IRIS/Pong, with Geometry Dash as the motivating real-time FSQ application.
+**[SLS-WM](https://github.com/Tariolle/sls-wm)** *(ongoing research)* - Annealed Structured Label Smoothing for discrete world models: a tokenizer-metric-aware objective for improving training stability and sample efficiency, evaluated on IRIS/Pong, with Geometry Dash as the motivating real-time application.
