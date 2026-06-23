@@ -2,4 +2,4 @@
 
 **[SLS-WM](https://github.com/Tariolle/sls-wm)** *(ongoing research)* - Annealed Structured Label Smoothing for discrete world models: a tokenizer-metric-aware objective for improving training stability and sample efficiency, evaluated on IRIS/Pong. The project also includes an action-conditioned Geometry Dash world model with FSQ tokenization, block-causal dynamics, and real-time zero-shot deployment.
 
-**[Rose](https://github.com/Alban1911/Rose)** - Open-source, high-traffic real-time customization tool natively integrated into the League of Legends client. 15K+ daily active users.
+**[Rose](https://github.com/Alban1911/Rose)** - Open-source, real-time customization tool natively integrated into the League of Legends client. 15K+ daily active users.
