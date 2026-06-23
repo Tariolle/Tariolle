@@ -1,4 +1,4 @@
-**[HelloWorlds](https://github.com/Tariolle/hello-worlds)** *(Hack the World(s) finalist team project)* - Built during a 24h Yann LeCun-sponsored hackathon on JEPAs and world models, applying geometry-aware self-supervised representation learning to EEG: a strong SIGReg baseline, and evidence that SPD-tangent geometry makes the learned latent structure more visible.
+**[Finalist, Hack the World(s) Hackathon](https://github.com/Tariolle/hello-worlds)** - 24-hour hackathon on JEPAs and world models sponsored by Yann LeCun. Our team applied geometry-aware self-supervised learning to EEG, establishing a strong SIGReg frozen-transfer baseline and finding that SPD-tangent geometry made the learned latent structure more visible.
 
 **[Rose](https://github.com/Alban1911/Rose)** - Open-source, high-traffic real-time customization tool natively integrated into the League of Legends client. 15K+ daily active users.
 
