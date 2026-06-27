@@ -1,7 +1,14 @@
-**[Hack the World(s)](https://github.com/Tariolle/hello-worlds)** *(finalist)* - 24-hour hackathon on JEPAs and world models sponsored by Yann LeCun. Our team built a joint-embedding EEG SSL system with strong SIGReg frozen-transfer baselines and Riemannian latent analysis showing structure in SPD covariance representations.
+Deep learning research student focused on representation learning, self-supervised learning, and world models.
 
-**[SLS-WM](https://github.com/Tariolle/sls-wm)** *(ongoing research)* - Annealed Structured Label Smoothing for discrete world models: a tokenizer-metric-aware objective for improving training stability and sample efficiency, evaluated on IRIS/Pong. The project also includes an action-conditioned Geometry Dash world model with FSQ tokenization, block-causal dynamics, and real-time zero-shot deployment.
+Currently seeking a 6-month final-year research internship in deep learning starting in 2027.
 
-**[Opportunistic Target Selection](https://github.com/Tariolle/opportunistic-target-selection)** *(CAp 2026)* - Peer-reviewed paper on query-efficient score-based black-box adversarial attacks, using early class-confidence signals to reduce class drift in undirected random-search attacks.
+## Selected work
 
-**[Rose](https://github.com/Alban1911/Rose)** - Open-source, real-time customization tool natively integrated into the League of Legends client. 15K+ daily active users.
+- **Opportunistic Target Selection** — CAp 2026 accepted paper on query-efficient black-box adversarial attacks.
+- **SLS-WM** — Ongoing research on structured label smoothing for discrete world models.
+- **Hack the World(s)** — Finalist at a Yann LeCun–sponsored JEPA/world-model hackathon; built a self-supervised EEG system with Riemannian analysis of the learned representations.
+- **Rose** — Open-source League of Legends customization tool with 15K+ daily active users.
+
+## Links
+
+[Website](https://tariolle.github.io/) · [LinkedIn](https://www.linkedin.com/in/florent-tariolle/) · [Google Scholar](https://scholar.google.com/citations?user=z5QWV8kAAAAJ)
