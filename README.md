@@ -1,7 +1,5 @@
 I'm focused on self-supervised learning and world models.
 
-Currently I'm seeking a 6-month final-year research internship in deep learning starting in 2027.
-
 ## Selected work
 
 - **Opportunistic Target Selection** - CAp 2026 accepted paper on query-efficient black-box adversarial attacks.
