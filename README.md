@@ -1,4 +1,4 @@
-Deep learning research student focused on representation learning, self-supervised learning, and world models.
+Deep learning research student focused on self-supervised learning and world models.
 
 Currently seeking a 6-month final-year research internship in deep learning starting in 2027.
 
