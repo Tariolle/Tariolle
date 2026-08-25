@@ -2,11 +2,12 @@ I'm focused on self-supervised learning and world models.
 
 ## Selected work
 
-- **Opportunistic Target Selection** - CAp 2026 accepted paper on query-efficient black-box adversarial attacks.
-- **DashVMC** - Ongoing research on real-time discrete world model control in Geometry Dash with FSQ tokenization, action-conditioned transformer dynamics, and imagined-rollout policy training.
-- **Hack the World(s)** - Finalist at a Yann LeCun-sponsored JEPA/world model hackathon; built a self-supervised EEG system with Riemannian analysis of the learned representations.
-- **Rose** - Open-source League of Legends customization tool with 25K+ daily active users.
+- [**DashVMC**](https://tariolle.github.io/dash-vmc/) — Submitted to NeurIPS 2026 Workshop PTA; real-time discrete world-model control with a decoder-free 60 FPS policy.
+- [**Opportunistic Target Selection**](https://arxiv.org/abs/2605.25663) — CAp 2026 paper on query-efficient black-box adversarial attacks.
+- [**Hack the World(s)**](https://github.com/Tariolle/hello-worlds) — Selected among 100 participants from 650+ applicants; finalist, placing top 5 out of 25 teams.
+- [**VisualTorch**](https://github.com/willyfh/visualtorch) — Maintainer of an official PyTorch Ecosystem project with 300+ GitHub stars.
+- [**Rose**](https://github.com/Alban1911/Rose) — Co-founder and lead developer; 25K+ daily active users and 400+ GitHub stars.
 
 ## Links
 
-[Website](https://tariolle.github.io/) - [LinkedIn](https://www.linkedin.com/in/florent-tariolle/) - [Google Scholar](https://scholar.google.com/citations?user=z5QWV8kAAAAJ)
+[Website](https://tariolle.github.io/) · [CV](https://tariolle.github.io/cv.pdf) · [LinkedIn](https://www.linkedin.com/in/florent-tariolle/) · [Google Scholar](https://scholar.google.com/citations?user=z5QWV8kAAAAJ)
