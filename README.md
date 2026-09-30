@@ -2,7 +2,7 @@ I'm focused on self-supervised learning and world models.
 
 ## Selected work
 
-- [**DashVMC**](https://tariolle.github.io/dash-vmc/) — Submitted to NeurIPS 2026 Workshop PTA; real-time discrete world-model control with a decoder-free 60 FPS policy.
+- [**DashVMC**](https://tariolle.github.io/dash-vmc/) — Technical report on real-time discrete world-model control with a decoder-free 60 FPS policy.
 - [**Opportunistic Target Selection**](https://arxiv.org/abs/2605.25663) — CAp 2026 paper on query-efficient black-box adversarial attacks.
 - [**Hack the World(s)**](https://github.com/Tariolle/hello-worlds) — Selected among 100 participants from 650+ applicants; finalist, placing top 5 out of 25 teams.
 - [**VisualTorch**](https://github.com/willyfh/visualtorch) — Maintainer of an official PyTorch Ecosystem project.
